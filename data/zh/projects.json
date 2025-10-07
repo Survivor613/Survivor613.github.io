@@ -1,18 +1,14 @@
 {
-  "nav_label": "项目",
-  "title": "⚙️ 项目",
-  "projects": [
+  "nav_label": "论文",
+  "title": "📚 Publications",
+  "publications": [
     {
-      "title": "占位项目",
-      "date": "2025.01",
-      "authors": "贡献者甲, 贡献者乙",
-      "description": "这里是项目的占位描述。",
-      "links": [
-        {
-          "type": "仓库",
-          "url": "https://www.bilibili.com/"
-        }
-      ]
+      "title": "Towards Global Reasoning in RAG: Tool-Augmented Agents with a New Benchmark",
+      "conference": "Chinese Journal of Electronics (CJE)",
+      "authors": "Qi Luo, Xiaonan Li, Tingshuo Fan, Xingchi Chen, Xipeng Qiu",
+      "description": "提出 GlobalQA 数据集及 GlobalRAG 基线，系统评测 RAG 系统在全局语料推理任务中的表现。"
     }
   ]
 }
+
+

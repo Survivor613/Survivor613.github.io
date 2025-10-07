@@ -1,14 +1,11 @@
 {
-  "nav_label": "新闻",
-  "title": "🔥 新闻",
+  "nav_label": "动态",
+  "title": "🔥 最新动态",
   "news": [
-    {
-      "date": "2025.01.01",
-      "content": "占位新闻条目。"
-    },
-    {
-      "date": "2025.02.01",
-      "content": "另一个占位新闻条目。"
-    }
+    {"date": "2025.10.08", "content": "部署个人学术主页：https://survivor613.github.io/ 🎉"},
+    {"date": "2025.10.04", "content": "发表首篇论文"},
+    {"date": "2025.09.07", "content": "正式开始科研"},
+    {"date": "2025.08.22", "content": "顺利进入FNLP实验室"}
   ]
 }
+
