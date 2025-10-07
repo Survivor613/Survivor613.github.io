@@ -23,8 +23,7 @@
   ],
   "socials": [
     {"icon": "fab fa-github", "url": "https://github.com/Survivor613"},
-    {"icon": "fas fa-envelope", "url": "mailto:your_email@example.com"},
-    {"icon": "fab fa-google", "url": "https://scholar.google.com/"}
+    {"icon": "fas fa-envelope", "url": "mailto:your_email@example.com"}
   ],
   "emptyStates": {
     "news": "暂无新闻。",
