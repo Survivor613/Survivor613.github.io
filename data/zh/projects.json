@@ -7,6 +7,12 @@
       "conference": "Chinese Journal of Electronics (CJE)",
       "authors": "Qi Luo, Xiaonan Li, Tingshuo Fan, Xingchi Chen, Xipeng Qiu",
       "description": "提出 GlobalQA 数据集及 GlobalRAG 基线，系统评测 RAG 系统在全局语料推理任务中的表现。"
+    },
+    {
+      "title": "MARAG-R1: Beyond Single Retriever via Reinforcement-Learned Multi-Tool Agentic Retrieval",
+      "conference": "Chinese Journal of Electronics (计算机学报)",
+      "authors": "Qi Luo, Xiaonan Li, Yuxin Wang, Tingshuo Fan, Xingchi Chen, Xipeng Qiu",
+      "description": "提出 MARAG-R1，一种通过强化学习协调多种检索工具的多工具检索增强生成框架，使大模型能主动整合更丰富的外部信息以进行全局推理。相较以往单一检索或图结构方法，MARAG-R1 通过监督微调与强化学习结合，实现了多步工具调用策略学习，在多个全局推理基准上取得了新的最优性能。"
     }
   ]
 }

@@ -2,10 +2,10 @@
   "nav_label": "动态",
   "title": "🔥 最新动态",
   "news": [
-    {"date": "2025.10.08", "content": "部署个人学术主页：https://survivor613.github.io/ 🎉"},
-    {"date": "2025.10.04", "content": "发表首篇论文"},
-    {"date": "2025.09.07", "content": "正式开始科研"},
-    {"date": "2025.08.22", "content": "顺利进入FNLP实验室"}
+    {"date": "2025.10.26", "content": "参与 MARAG-R1 工作，负责 Appendix 实验与 Graph-based RAG 文献梳理，以及整体论文修缮；基于 Dify 搭建企业级 RAG_Wiki 流程 🎯"},
+    {"date": "2025.10.12", "content": "补充 GlobalQA 数据集与实验分析，参与论文共同撰写并投出至 CJE 与 arXiv；申请专利 💡"},
+    {"date": "2025.09.21", "content": "首次撰写科研周报；复现 Graph-R1 框架并完成 GlobalQA 数据集多项实验分析 🚀"},
+    {"date": "2025.09.07", "content": "正式开始科研，加入 FNLP 实验室 NLP 方向项目"},
+    {"date": "2025.08.22", "content": "顺利进入复旦大学自然语言处理实验室（FNLP）🎉"}
   ]
 }
-

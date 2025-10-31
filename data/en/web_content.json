@@ -1,8 +1,5 @@
 {
-  "navbar_title": "Hello World!",
-  "navbar_home": "Home",
-  "language": "Language",
-  "title": "Add your homepage headline here.",
-  "subtitle": "Use this subtitle to share a short mission statement or tagline.",
-  "footer": "© 2024 Phospheneser. All rights reserved."
+"site_title": "Tingshuo Fan | NLP & RAG Research",
+"site_subtitle": "Undergraduate @ Fudan (CS & English). NLP + Agentic RAG + Systems.",
+"footer": "© 2025 Tingshuo Fan. Built with a config-driven academic template."
 }

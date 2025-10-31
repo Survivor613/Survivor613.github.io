@@ -15,7 +15,8 @@
 
 
 "socials": [
-{"icon": "fab fa-github", "url": "https://github.com/Survivor613"}
+{"icon": "fab fa-github", "url": "https://github.com/Survivor613"},
+{"icon": "fas fa-globe", "url": "https://phospheneser.github.io/"}
 ],
 
 
@@ -53,6 +54,42 @@
 "background": "home",
 "singlePage": {"enabled": true},
 "multiPage": {"enabled": false}
+},
+{
+"id": "publications",
+"enabled": true,
+"itemType": "publication",
+"dataSource": "publications",
+"background": "default",
+"singlePage": {"enabled": true},
+"multiPage": {"enabled": true, "plugins": ["search", "sort"]}
+},
+{
+"id": "news",
+"enabled": true,
+"itemType": "news",
+"dataSource": "news",
+"background": "default",
+"singlePage": {"enabled": true},
+"multiPage": {"enabled": true, "plugins": ["search"]}
+},
+{
+"id": "blogs",
+"enabled": true,
+"itemType": "blog",
+"dataSource": "blogs",
+"background": "default",
+"singlePage": {"enabled": true},
+"multiPage": {"enabled": true, "plugins": ["search", "sort"]}
+},
+{
+"id": "projects",
+"enabled": true,
+"itemType": "project",
+"dataSource": "projects",
+"background": "default",
+"singlePage": {"enabled": true},
+"multiPage": {"enabled": true, "plugins": ["search"]}
 }
 ],
 
